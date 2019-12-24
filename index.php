@@ -37,6 +37,7 @@
                     </li>
                 </ul>
                 <a href="question.php?n=1" class="start">START QUIZ</a>
+                <a href="add.php" class="start" style="float: right">GOT A QUESTION ?</a>
             </div>
         </main>
         <footer>
